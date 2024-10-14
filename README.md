@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **One Punch Man Archive**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Tailwind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
